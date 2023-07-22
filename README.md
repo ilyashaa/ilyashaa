@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Udemy Flutter & Dart 2023**
 
-- 📫 How to reach me **deffolt1@bk.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
