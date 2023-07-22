@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyashaa&label=Profile%20views&color=0e75b6&style=flat" alt="ilyashaa" /> </p>
 
-- 🌱 I’m currently learning **Udemy Flutter & Dart 2023**
+- ❤️ I'm still learning how to write cool code on Flutter & Dart, but I'm sure the future is just around the corner
 
 
 <h3 align="left">Connect with me:</h3>
