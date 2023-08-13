@@ -1,18 +1,15 @@
-<h1 align="center">Hello everyone, I am Ilya</h1>
-<h3 align="center">I am writing my young code in Russia, Rostov-on-Don</h3>
+<div id="header" align="center">
+  <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyashaa&label=Profile%20views&color=0e75b6&style=flat" alt="ilyashaa" /> </p>
-
-- ❤️ I'm still learning how to write cool code on Flutter & Dart, but I'm sure the future is just around the corner
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ipalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ipalik" height="30" width="40" /></a>
-<a href="https://discord.gg/558924961952169984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="558924961952169984" height="30" width="40" /></a>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats-vjns.vercel.app/api?username=rel1nce&show_icons=true&count_private=true&theme=city_lights&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats-vjns.vercel.app/api/top-langs/?username=rel1nce&layout=compact&hide_border=true&theme=city_lights&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <br>
+  <br>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=rel1nce&theme=city_lights&hide_border=true&background=FFFFFF00&mode=weekly">
+  <br>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyashaa&" alt="ilyashaa" /></p>
